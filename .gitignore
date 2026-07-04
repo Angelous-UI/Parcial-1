@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Salidas generadas (se pueden regenerar con el simulador)
+# Descomenta la siguiente linea si NO quieres versionar los resultados:
+# outputs/

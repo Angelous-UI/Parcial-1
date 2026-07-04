@@ -1,0 +1,9 @@
+# Archivo: mlq026.txt
+# Caso propio 2: varios trabajos en la cola 3 para demostrar el orden SJF.
+# etiqueta; burst time (BT); arrival time (AT); Queue (Q); Priority (5 > 1)
+T1; 4; 0; 1; 5
+T2; 3; 0; 2; 4
+T3; 8; 0; 3; 3
+T4; 2; 0; 3; 2
+T5; 5; 0; 3; 3
+T6; 1; 0; 3; 1

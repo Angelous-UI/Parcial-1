@@ -1,0 +1,8 @@
+# Archivo: mlq025.txt
+# Caso propio 1: llegadas escalonadas para demostrar EXPROPIACION entre colas.
+# etiqueta; burst time (BT); arrival time (AT); Queue (Q); Priority (5 > 1)
+A; 5; 0; 3; 2
+B; 4; 2; 2; 3
+C; 3; 4; 1; 5
+D; 6; 5; 1; 4
+E; 2; 10; 3; 1
